@@ -1,208 +1,204 @@
-<!-- 🔥 Animated Typing Header -->
+<!-- 🌊 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Kunal%20Gangani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kunal+Gangani;Flutter+Developer;AI+Enthusiast;Cyber+Security+Explorer;Building+Smart+Mobile+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kunal+Gangani+👋;Flutter+Developer+🚀;AI+Enthusiast+🤖;Cyber+Security+Explorer+🔐;Building+Smart+Mobile+Experiences" />
 </p>
 
 ---
 
-# Hi, I'm Kunal Gangani
+# 👋 Hi, I'm Kunal Gangani
 
-### Flutter Developer | AI Enthusiast | Cyber Security Explorer
+### 🚀 Flutter Developer | 🤖 AI Enthusiast | 🔐 Cyber Security Explorer
 
 > *"I don’t just build apps — I craft experiences that feel effortless, intelligent, and secure."*
 
 ---
 
-## About Me
+<img src="https://user-images.githubusercontent.com/74038190/212744275-7c5c6c3b-4c9a-4f1e-bf63-4b6cbbf1b2f4.gif" width="100%" />
 
-I'm a passionate **Flutter Developer** and **MCA student** who loves turning complex ideas into smooth, high-performance mobile applications.  
+---
+
+## 🌟 About Me
+
+I'm a passionate **Flutter Developer** and **MCA student** who loves turning complex ideas into smooth, high-performance mobile applications.
+
 I focus on building apps that are **scalable, secure, and visually stunning**.
 
-I work at the intersection of:
-- Mobile Development 
-- Artificial Intelligence 
-- Cyber Security 
-- Real-time Systems 
+💡 I work at the intersection of:
+- 📱 Mobile Development  
+- 🤖 Artificial Intelligence  
+- 🔐 Cyber Security  
+- ⚡ Real-time Systems  
 
 ---
 
-## My Development Philosophy
+## 🧠 My Development Philosophy
 
-- **Clean Architecture First** – scalable & maintainable codebases  
-- **Pixel-Perfect UI/UX** – attention to every detail  
-- **Performance Matters** – fast & optimized apps  
-- **Security by Design** – not an afterthought  
-- **Continuous Learning** – evolving daily  
+- 🧩 Clean Architecture First  
+- 🎯 Pixel-Perfect UI/UX  
+- ⚡ Performance Matters  
+- 🔐 Security by Design  
+- 🔄 Continuous Learning  
 
 ---
 
-## My Current Focus (2026)
+## 🚀 My Current Focus (2026)
 
 - Clean Architecture + DDD  
-- Advanced State Management  
-  - Riverpod (Primary)
-  - Bloc (Enterprise)
-  - GetX (Rapid builds)
-- UI & Animations
-  - CustomPainter
-  - Rive
-- AI Features
-  - Voice Assistants
-  - AI Chat + Image Generation
-- Security
-  - Secure API Handling
-  - Authentication Systems
-  - Data Protection
-- Backend
-  - Firebase
-  - Supabase
+- Advanced State Management (Riverpod, Bloc, GetX)  
+- UI & Animations (CustomPainter, Rive)  
+- AI Features (Voice + Image AI)  
+- Secure Backend Systems (Firebase, Supabase)  
 
 ---
 
-## Cyber Security Interests
+## 📚 Currently Learning
 
-> *“A great app is not just powerful — it's secure.”*
-
-I’m actively exploring **Cyber Security** to build safer applications:
-
-- Basics of Ethical Hacking  
-- Secure Authentication (JWT, OAuth)  
-- Data Encryption & Secure Storage  
-- API Security & Threat Prevention  
-- Understanding vulnerabilities (OWASP Top 10)
-
-Goal: Become a developer who builds **secure-by-default applications**
+- Advanced Flutter Animations  
+- System Design  
+- Cyber Security (OWASP)  
+- AI Agents  
 
 ---
 
-## Tech Stack
+## 🔐 Cyber Security Interests
 
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Backend & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **Security & Tools** | JWT, OAuth, API Security, Encryption Basics |
-| **Design & DevTools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+- Ethical Hacking Basics  
+- JWT, OAuth  
+- API Security  
+- Encryption  
 
----
-
-## What Makes Me Different?
-
- - AI-powered mobile apps
- - Strong architecture mindset  
- - Focus on **security + performance**  
- - Real-world project experience  
- - Builder mindset (not just coder)
+🎯 Goal: Build **secure-by-default applications**
 
 ---
 
-## Featured Projects
+## ⚙️ Daily Dev Tools
 
-### Vocal Lens (AI Voice Assistant)
-- Wake word detection  
-- AI Chat + Image Generation  
-- Voice-controlled YouTube  
-- Multi-language support  
-
-Flutter, Provider, ML Kit  
+VS Code • Android Studio • Git • Postman • Figma  
 
 ---
 
-### Aurix – AI Assistant
-- Smart assistant system  
-- Modular architecture  
-- Expandable AI features  
-
----
-
-### ERP System
-- Business management solution  
-- Dashboard + authentication  
-
----
-
-### Chat App
-- Real-time messaging  
-- Firebase integration  
-
----
-
-### Art Gallery Auction App
-- Online bidding system  
-- Secure transactions  
-
----
-
-### Budget Tracker
-- Expense analytics  
-- Clean UI  
-
----
-
-## GitHub Analytics
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-gangani&theme=dark&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-gangani&theme=dark&hide_border=true&layout=compact" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,figma,androidstudio&theme=dark" />
 </p>
 
 ---
 
-## Contribution Snake
+<img src="https://user-images.githubusercontent.com/74038190/216656986-6c6f88e5-cc3b-4c73-9d7c-2c0fcbf7a6f5.gif" width="100%" />
+
+---
+
+## 🔥 What Makes Me Different?
+
+- AI-powered mobile apps  
+- Strong architecture mindset  
+- Security + performance focused  
+- Real-world project experience  
+
+---
+
+## 💼 Why Hire Me?
+
+- Production-ready apps  
+- Clean scalable architecture  
+- AI + mobile integration  
+- Fast learner  
+
+---
+
+## 🎬 Project Preview
 
 <p align="center">
-  <img src="https://github.com/kunal-gangani/kunal-gangani/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%"/>
+  <br/>
+  🚀 *Add your app GIFs here for maximum impact*
 </p>
 
 ---
 
-## Achievements
+## 🚀 Featured Projects
+
+### 🎙️ Vocal Lens
+AI Voice Assistant with real-time interaction  
+
+### 🤖 Aurix
+Modular AI Assistant System  
+
+### 📊 ERP System
+Business dashboard + management  
+
+### 💬 Chat App
+Realtime Firebase messaging  
+
+### 🎨 Art Gallery Auction
+Online bidding system  
+
+### 💰 Budget Tracker
+Expense analytics  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunal-gangani&theme=radical&no-frame=true&column=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-gangani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-gangani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
 </p>
 
 ---
 
-## Current Goals
+## 📈 Activity Graph
 
-- Build AI-powered production apps  
-- Master secure app development  
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunal-gangani&theme=tokyo-night)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunal-gangani&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Build AI-powered apps  
+- Master system design  
 - Contribute to open source  
-- Crack top developer role  
+- Crack top dev role  
 
 ---
 
-## Let's Connect!
+## 🤝 Let's Connect!
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/kunal-gangani-b1b69625a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/the_kunalgangani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100079747635873">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kunal-gangani&label=Profile%20Views&color=5&icon=6&pretty=false" />
-</p>
+## ⚡ Fun Fact
+
+> Old me: “Why Doraemon?”  
+> Me now: “AI is my Doraemon.” 🤖
 
 ---
 
-## Fun Fact
-
-> Old me: “Why does Nobita share everything with Doraemon?”  
-> Me now: “I literally share everything with AI.” 
-
----
-
-## Quote I Live By
+## 💬 Quote I Live By
 
 > *"Code is not just written — it is designed, engineered, and secured."*
+
+---
+
+<!-- 🌊 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
