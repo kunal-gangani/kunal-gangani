@@ -1,16 +1,14 @@
-<!-- 🌊 Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Kunal%20Gangani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kunal+Gangani+👋;Flutter+Developer+🚀;AI+Enthusiast+🤖;Cyber+Security+Explorer+🔐;Building+Smart+Mobile+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.comfont=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kunal+Gangani;Flutter+Developer;AI+Enthusiast+;Cyber+Security+Explorer;Building+Smart+Mobile+Experiences" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Kunal Gangani
+# Hi, I'm Kunal Gangani
 
-### 🚀 Flutter Developer | 🤖 AI Enthusiast | 🔐 Cyber Security Explorer
+### Flutter Developer | AI Enthusiast | Cyber Security Explorer
 
 > *"I don’t just build apps — I craft experiences that feel effortless, intelligent, and secure."*
 
@@ -20,31 +18,31 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I'm a passionate **Flutter Developer** and **MCA student** who loves turning complex ideas into smooth, high-performance mobile applications.
 
 I focus on building apps that are **scalable, secure, and visually stunning**.
 
-💡 I work at the intersection of:
-- 📱 Mobile Development  
-- 🤖 Artificial Intelligence  
-- 🔐 Cyber Security  
-- ⚡ Real-time Systems  
+I work at the intersection of:
+- Mobile Development  
+- Artificial Intelligence  
+- Cyber Security  
+- Real-time Systems  
 
 ---
 
-## 🧠 My Development Philosophy
+## My Development Philosophy
 
-- 🧩 Clean Architecture First  
-- 🎯 Pixel-Perfect UI/UX  
-- ⚡ Performance Matters  
-- 🔐 Security by Design  
-- 🔄 Continuous Learning  
+- Clean Architecture First  
+- Pixel-Perfect UI/UX  
+- Performance Matters  
+- Security by Design  
+- Continuous Learning  
 
 ---
 
-## 🚀 My Current Focus (2026)
+## My Current Focus (2026)
 
 - Clean Architecture + DDD  
 - Advanced State Management (Riverpod, Bloc, GetX)  
@@ -54,7 +52,7 @@ I focus on building apps that are **scalable, secure, and visually stunning**.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Flutter Animations  
 - System Design  
@@ -63,24 +61,24 @@ I focus on building apps that are **scalable, secure, and visually stunning**.
 
 ---
 
-## 🔐 Cyber Security Interests
+## Cyber Security Interests
 
 - Ethical Hacking Basics  
 - JWT, OAuth  
 - API Security  
 - Encryption  
 
-🎯 Goal: Build **secure-by-default applications**
+Goal: Build **secure-by-default applications**
 
 ---
 
-## ⚙️ Daily Dev Tools
+## Daily Dev Tools
 
 VS Code • Android Studio • Git • Postman • Figma  
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,figma,androidstudio&theme=dark" />
@@ -92,7 +90,7 @@ VS Code • Android Studio • Git • Postman • Figma
 
 ---
 
-## 🔥 What Makes Me Different?
+## What Makes Me Different?
 
 - AI-powered mobile apps  
 - Strong architecture mindset  
@@ -101,7 +99,7 @@ VS Code • Android Studio • Git • Postman • Figma
 
 ---
 
-## 💼 Why Hire Me?
+## Why Hire Me?
 
 - Production-ready apps  
 - Clean scalable architecture  
@@ -110,44 +108,35 @@ VS Code • Android Studio • Git • Postman • Figma
 
 ---
 
-## 🎬 Project Preview
+## Project Preview
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%"/>
   <br/>
-  🚀 *Add your app GIFs here for maximum impact*
+  *Add your app GIFs here for maximum impact*
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎙️ Vocal Lens
+### Vocal Lens
 AI Voice Assistant with real-time interaction  
 
-### 🤖 Aurix
+### Aurix
 Modular AI Assistant System  
 
-### 📊 ERP System
+### ERP System
 Business dashboard + management  
 
-### 💬 Chat App
+### Chat App
 Realtime Firebase messaging  
 
-### 🎨 Art Gallery Auction
+### Art Gallery Auction
 Online bidding system  
 
-### 💰 Budget Tracker
+### Budget Tracker
 Expense analytics  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-gangani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-gangani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
-</p>
 
 ---
 
@@ -157,15 +146,9 @@ Expense analytics
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunal-gangani&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Build AI-powered apps  
 - Master system design  
@@ -187,10 +170,22 @@ Expense analytics
 
 ---
 
-## ⚡ Fun Fact
+---
+
+## Support My Work
+
+If you find my projects helpful or enjoy my content, consider supporting my journey!
+
+<a href="https://www.buymeacoffee.com/yourusername">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+---
+
+## Fun Fact
 
 > Old me: “Why Doraemon?”  
-> Me now: “AI is my Doraemon.” 🤖
+> Me now: “AI is my Doraemon.” 
 
 ---
 
@@ -200,5 +195,4 @@ Expense analytics
 
 ---
 
-<!-- 🌊 Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
