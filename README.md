@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Kunal%20Gangani&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.comfont=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kunal+Gangani;Flutter+Developer;AI+Enthusiast+;Cyber+Security+Explorer;Building+Smart+Mobile+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kunal+Gangani;Flutter+Developer;AI+Enthusiast;Cyber+Security+Explorer;Building+Smart+Mobile+Experiences" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a passionate **Flutter Developer** and **MCA student** who loves turning complex ideas into smooth, high-performance mobile applications.
+I'm a passionate **Flutter Developer** and **MCA student** dedicated to turning complex ideas into smooth, high-performance mobile applications.
 
 I focus on building apps that are **scalable, secure, and visually stunning**.
 
@@ -140,11 +140,9 @@ Expense analytics
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunal-gangani&theme=tokyo-night)
-
----
 
 ---
 
@@ -157,7 +155,7 @@ Expense analytics
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-gangani-b1b69625a/">
@@ -170,8 +168,6 @@ Expense analytics
 
 ---
 
----
-
 ## Support My Work
 
 <p align="left">
@@ -181,14 +177,15 @@ Expense analytics
 </p>
 
 ---
+
 ## Fun Fact
 
 > Old me: “Why Doraemon?”  
-> Me now: “AI is my Doraemon.” 
+> Me now: “AI is my Doraemon.”  
 
 ---
 
-## 💬 Quote I Live By
+## Quote I Live By
 
 > *"Code is not just written — it is designed, engineered, and secured."*
 
