@@ -113,7 +113,6 @@ VS Code • Android Studio • Git • Postman • Figma
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%"/>
   <br/>
-  *Add your app GIFs here for maximum impact*
 </p>
 
 ---
